@@ -53,5 +53,5 @@ Flutter，ReactNative（很多的坑），uiapp，　跨平台框架（一套代
 
 ### 1.2 实现效果图
 
-<img src="https://github.com/tianyalusty/NeMusicPlayerStructure/raw/master/show/show.png" alt="project_structure" style="zoom:60%;" />
+<img src="https://github.com/tianyalu/NeMusicPlayerStructure/blob/master/show/show.png" alt="project_structure" style="zoom:60%;" />
 
