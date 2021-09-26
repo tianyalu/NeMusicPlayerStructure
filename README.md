@@ -6,7 +6,7 @@
 
 #### 1.1.1 框架图
 
-![project_structure](https://gitee.com/tianyalusty/pic-go-repository/raw/master/img/202109262059546.png)
+<img src="https://gitee.com/tianyalusty/pic-go-repository/raw/master/img/202109262059546.png" alt="project_structure" style="zoom:80%;" />
 
 #### 1.1.2 框架介绍
 
@@ -54,4 +54,5 @@ Flutter，ReactNative（很多的坑），uiapp，　跨平台框架（一套代
 
 ### 1.2 实现效果图
 
-![show](https://gitee.com/tianyalusty/pic-go-repository/raw/master/img/202109262100203.png)
+<img src="https://gitee.com/tianyalusty/pic-go-repository/raw/master/img/202109262106241.png" alt="project_structure" style="zoom:50%;" />
+
