@@ -38,7 +38,6 @@ MVP　这种方式，分层很清晰了，（引发接口地狱问题）
 Dagger到底有什么用？
 答：　对象解耦，什么又是对象解耦？　举例：　Ｐ　和　Ｖ　的耦合关系
 
-
 云音乐：
 以前　和　目前：　MVP模式采用
 
@@ -54,5 +53,5 @@ Flutter，ReactNative（很多的坑），uiapp，　跨平台框架（一套代
 
 ### 1.2 实现效果图
 
-<img src="https://gitee.com/tianyalusty/pic-go-repository/raw/master/img/202109262106241.png" alt="project_structure" style="zoom:50%;" />
+<img src="https://github.com/tianyalusty/NeMusicPlayerStructure/raw/master/show/show.png" alt="project_structure" style="zoom:60%;" />
 
