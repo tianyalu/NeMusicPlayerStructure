@@ -1,0 +1,4 @@
+include ':core'
+include ':common'
+include ':app'
+rootProject.name = "NeMusicPlayerStructure"
